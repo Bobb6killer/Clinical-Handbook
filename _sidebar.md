@@ -1,4 +1,4 @@
-- [Home](index.md)
+- [Home](README.md)
 - [Clinical Overview & Philosophy](clinical_overview.md)
 - [Clinical Education Description](education_description.md)
 - [Clinical Terminology](terminology.md)
